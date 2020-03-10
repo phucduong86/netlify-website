@@ -2,6 +2,7 @@
 backend:
   name: git-gateway
   branch: master
+  repo: phucduong86/netlify-website
 
 # Publish mode https://www.netlifycms.org/docs/configuration-options/#publish-mode
 publish_mode: editorial_workflow
